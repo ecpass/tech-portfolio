@@ -2,28 +2,20 @@
 id: about
 title: About
 ---
+I am a Mom, athlete (running/snowboarding), avid baseball fan, continuous learner, and technology leader passionate about enabling greatness 
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I find passion, excitement & value in connecting big picture strategy to the single Excel cell and inspire that sensibility in my team, by focus & refocusing them on how our work impacts strategy
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+I specialize in developing high performing teams that disrupt legacy processes by integrating digital experiences. 
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Nike Technology Portfolio Director
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- 
 
 ## Social Media
 
