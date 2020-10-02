@@ -2,7 +2,7 @@
 id: projects
 title: Projects
 ---
-
+This is tempated content that has not been updated yet. 
 Embed any notable projects in this page.
 
 For example, my favorite project would be linked and I can even embed
